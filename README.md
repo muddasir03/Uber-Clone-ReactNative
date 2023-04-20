@@ -16,8 +16,7 @@
 ### :camera: Screenshots
 
 <div style="display: inline_block" align="center"><br>
- <img align="center" alt="React"  width="500" height="350" src="https://user-images.githubusercontent.com/84333971/233428614-fb952317-a115-4964-b626-c9907c8e39ed.jpg">
- <img align="center" alt="React"  width="500" height="350" src="https://newsroomapi.uber.com/wp-content/uploads/2019/09/Newsroom002@2x.jpg">
+ <img align="center" alt="React"  width="auto" height="auto" src="https://user-images.githubusercontent.com/84333971/233428614-fb952317-a115-4964-b626-c9907c8e39ed.jpg">
 </div>
 
 <br />
