@@ -106,6 +106,6 @@ expo publish
 
 ## :handshake: Contact
 
-Email ID- mudassarmanzoor03@gmail.com
+Email ID- muddasarhussain739@gmail.com
 
 Project Link : https://github.com/muddasir03/Uber-Clone-ReactNative.git
